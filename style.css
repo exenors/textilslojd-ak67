@@ -10,17 +10,17 @@
 .canvas-wrap video{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:contain;background:#e9e7dd}.viewer:fullscreen video,.viewer.expanded video{max-height:65vh}
 
 .tool-heading {
-  grid-template-columns: minmax(0, 1fr) minmax(260px, 43%);
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 49%);
   align-items: center;
 }
 .tool-heading img {
   width: 100%;
   height: auto;
-  aspect-ratio: 850 / 590;
+  aspect-ratio: 3 / 2;
   object-fit: cover;
   border-radius: 4px 28px 4px 4px;
 }
 @media (max-width: 650px) {
   .tool-heading { grid-template-columns: minmax(0, 1fr); gap: 16px; }
-  .tool-heading img { max-width: 430px; }
+  .tool-heading img { max-width: 480px; }
 }

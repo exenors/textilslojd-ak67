@@ -84,7 +84,7 @@ const TOOLS = [
     "note": "Nåla ihop tyglager inför sömnad eller nåla fast ett pappersmönster."
   },
   {
-    "name": "Handsynål",
+    "name": "Synål",
     "slug": "handsynal",
     "idx": 3,
     "what": "En vass nål med ett öga för sytråden.",
@@ -196,32 +196,32 @@ const TOOLS = [
     "note": "Sy genom båda hålparen. Här visas två parallella streck."
   },
   {
-    "name": "Trädnål för band",
+    "name": "Stoppnål",
     "slug": "tradnal",
     "idx": 7,
-    "what": "Ett trubbigt redskap med långt öga för band eller resår.",
-    "use": "Trä band eller resår genom en sydd kanal i tyg.",
-    "parts": "Det långa ögat håller bandänden och den trubbiga änden leder redskapet genom kanalen.",
-    "why": "Tyget kan skjutas ihop på nålen och sedan dras bakåt över bandet i små omgångar.",
-    "example": "Trä ett band genom kanalen på en dragskopåse.",
-    "safe": "Arbeta lugnt och tvinga aldrig redskapet förbi ett hinder.",
-    "error": "Om du släpper den fria änden kan den försvinna in i kanalen.",
-    "result": "Båda bandändarna är synliga och bandet ligger utan vridning.",
+    "what": "En nål med stort öga för garn. Den här stoppnålen har trubbig spets.",
+    "use": "Fäst garnändar i stickat eller virkat arbete.",
+    "parts": "Det stora ögat rymmer garnet. Den trubbiga spetsen glider under maskorna och minskar risken att dela garnet.",
+    "why": "När garnänden följer maskorna på avigsidan hålls den på plats.",
+    "example": "Fäst garnänden på baksidan av en rätstickad provlapp.",
+    "safe": "Håll fingrarna vid sidan om nålens väg och lägg tillbaka nålen i asken efteråt.",
+    "error": "Om du drar åt hårt kan maskorna rynka sig.",
+    "result": "Garnänden ligger dold på avigsidan och arbetet ligger slätt.",
     "steps": [
       [
-        "Trä i bandet",
-        "För ena bandänden genom ögat. Håll kvar den andra utanför kanalen."
+        "Trä stoppnålen",
+        "För garnänden genom det stora ögat."
       ],
       [
-        "Mata genom kanalen",
-        "För in den trubbiga änden först. Skjut ihop tyget framför nålen och dra sedan tyget bakåt."
+        "För nålen under maskorna",
+        "Arbeta på avigsidan. För nålen under flera maskbågar och dra igenom garnänden."
       ],
       [
-        "Dra ut nålen",
-        "Ta ut nålen vid öppningen och kontrollera båda ändarna."
+        "Byt riktning och fäst",
+        "Gå tillbaka under närliggande maskbågar. Klipp av det som sticker ut utan att klippa i arbetet."
       ]
     ],
-    "note": "Trä band eller resår genom en sydd kanal i tyg."
+    "note": "Här fäster du en garnände på avigsidan av ett stickat arbete."
   },
   {
     "name": "Virknål",
